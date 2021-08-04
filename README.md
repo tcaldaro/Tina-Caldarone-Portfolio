@@ -22,10 +22,10 @@ https://github.com/tcaldaro/PPT-Repo
   *Outliers by Malcolm Gladwell
 
 #Favorite Quotes:
-“I've failed over and over and over again in my life and that is why I succeed.”
+ “I've failed over and over and over again in my life and that is why I succeed.”
   ― Michael Jordan
 
-"There can be no leadership when there is no team"
+ "There can be no leadership when there is no team"
   -Jocko Willink
   
  "You never really understand a person until you consider things from his point of view - until you climb into his skin and walk around in it."
