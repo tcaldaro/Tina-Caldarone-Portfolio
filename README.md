@@ -2,7 +2,6 @@
 ## Technical Leader and Security Evangelist
 ###Lifetime Learner; Always a Work-In-Progress
 
-  
 ##Certifications:
  *Security -  CCNP Security (2021)
   *Cisco CCIE Written
@@ -11,7 +10,7 @@
  *Devnet Associate (2021)
  *AWS Cloud Practitioner (In-Progress)
 
-##Achievements:
+##In-Role Achievements:
  *FY21:
     *https://github.com/tcaldaro/PPT-Repo
 
@@ -46,6 +45,14 @@
     
   "You can never be overdressed or overeducated"
     -Oscare Wilde
+    
+##Volunteer
+  *Troop Volunteer, Girl Scouts of America, Idaho *2021-Present*
+  *Speaker, Volunteer, Board Member, Racine Creative Center, Wisconsin *2018-Present*
+  *Special Needs Volunteer, RecPlex Municipal Facility, Wisconsin *2017-2019*
+  *Homeless Assistance Leadership Organization, Wisconsin *2016-2019*
+  *Volunteer, Mentor, Boys and Girls Club, Orange County, San Francisco, Wisconsin *2013-2017*
+  *Child Life Volunteer, Childrens Hospital of Orange County, California *2004-2007*
     
 ##Resume
 
