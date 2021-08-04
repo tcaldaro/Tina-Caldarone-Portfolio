@@ -4,6 +4,17 @@
 ##Resume
 
 
+
+
+
+
+##Certifications:
+ *Security -  CCNP Security (2021)
+ *CCNP – R/S (Renewed 2021)
+ *Devnet Associate (2021)
+ *AWS Cloud Practitioner (In-Progress)
+
+
 FY21 Achievements
 https://github.com/tcaldaro/PPT-Repo
 
