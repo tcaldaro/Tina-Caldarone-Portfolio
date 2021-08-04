@@ -46,7 +46,7 @@
   "You can never be overdressed or overeducated"
     -Oscare Wilde
     
-  “And in the end, the love you take is equal to the love you make”
+  “...The love you take is equal to the love you make”
     -The Beatles
 
   "If you aren’t gonna say exactly how and what you feel, you might as well not say anything at all.” 
