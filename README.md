@@ -18,12 +18,11 @@
   *The Count of Monte Cristo by Alexandre Dumas
   *The Goldfinch by Donna Tartt
   *Sharp Objects by Gillian Fylnn 
-  *Dune by Frank Herbert
-  *Empire of a Summer Moon by S.C.Gwyne
+  *Atlas Shrugged by Ayn Rand
   *Gomorrah by Robert Saviano
   *Can't Hurt Me by David Goggins
   *The Culture Code by Daniel Coyle
-  *Awkware by Ty Tashiro
+  *Awkward by Ty Tashiro
   *Outliers by Malcolm Gladwell
   *Any and all Biographies/Autobiographies
 
