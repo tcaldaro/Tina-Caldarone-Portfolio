@@ -34,14 +34,14 @@
  "There can be no leadership when there is no team"
   -Jocko Willink
   
- "You never really understand a person until you consider things from his point of view - until you climb into his skin and walk around in it."
-  -Atticus Finch, *To Kill a Mockingbird
+ "Do or do not, there is no try"
+  - Yoda
   
   "When someone shows you who they are, believe them the first time"
   -Maya Angelou
   
-  “Don’t waste life in doubts and fears.” 
-    -Ralph Waldo Emerson
+  “The needs of the many outweigh the needs of the few"
+     -Captain Spock
     
   "You can never be overdressed or overeducated"
     -Oscare Wilde
