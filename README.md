@@ -10,7 +10,7 @@
  *Devnet Associate (2021)
  *AWS Cloud Practitioner (In-Progress)
 
-##In-Role Achievements:
+##Cybersecurity technical Solutions Architect | In-Role Achievements:
  *FY21:
     *https://github.com/tcaldaro/PPT-Repo
 
@@ -37,20 +37,17 @@
  "Do or do not, there is no try"
   - Yoda
   
-  "When someone shows you who they are, believe them the first time"
+ "When someone shows you who they are, believe them the first time"
   -Maya Angelou
   
-  “The needs of the many outweigh the needs of the few"
+ “The needs of the many outweigh the needs of the few"
      -Captain Spock
     
-  "You can never be overdressed or overeducated"
+ "You can never be overdressed or overeducated"
     -Oscare Wilde
     
-  “...The love you take is equal to the love you make”
+ “...The love you take is equal to the love you make”
     -The Beatles
-
-  "If you aren’t gonna say exactly how and what you feel, you might as well not say anything at all.” 
-    – Johnny Cash
     
 ##Volunteer
   *Troop Volunteer, Girl Scouts of America, Idaho *2021-Present*
