@@ -20,6 +20,7 @@
   *Sharp Objects by Gillian Fylnn 
   *Atlas Shrugged by Ayn Rand
   *Gomorrah by Robert Saviano
+  *Blade Runner by Philip k. Dick
   *Can't Hurt Me by David Goggins
   *The Culture Code by Daniel Coyle
   *Awkward by Ty Tashiro
