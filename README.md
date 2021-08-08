@@ -1,5 +1,5 @@
-# Tina-Caldarone-Portfolio
-## Technical Leader and Security Evangelist
+#Tina-Caldarone-Portfolio
+##Technical Leader and Security Evangelist
 ###Lifetime Learner; Always a Work-In-Progress
 
 ##Certifications:
@@ -49,7 +49,7 @@
     
  “...The love you take is equal to the love you make”
      -The Beatles
-    
+  
 ##Volunteer Work
   *Troop Volunteer, Girl Scouts of America, Idaho *2021-Present*
   *Speaker, Volunteer, Board Member, Racine Creative Center, Wisconsin *2018-Present*
