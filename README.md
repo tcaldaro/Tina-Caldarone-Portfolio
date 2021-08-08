@@ -25,31 +25,32 @@
   *The Culture Code by Daniel Coyle
   *Awkward by Ty Tashiro
   *Outliers by Malcolm Gladwell
+  *The Wolf of Wall Street by Jordan Belfort
   *Any and all Biographies/Autobiographies
 
 ##Favorite Quotes:
  “I've failed over and over and over again in my life and that is why I succeed.”
-  ― Michael Jordan
+   ― Michael Jordan
 
  "There can be no leadership when there is no team"
-  -Jocko Willink
+   -Jocko Willink
   
  "Do or do not, there is no try"
-  - Yoda
+   -Yoda
   
  "When someone shows you who they are, believe them the first time"
-  -Maya Angelou
+   -Maya Angelou
   
  “The needs of the many outweigh the needs of the few"
-     -Captain Spock
+   -Captain Spock
     
  "You can never be overdressed or overeducated"
     -Oscare Wilde
     
  “...The love you take is equal to the love you make”
-    -The Beatles
+     -The Beatles
     
-##Volunteer
+##Volunteer Work
   *Troop Volunteer, Girl Scouts of America, Idaho *2021-Present*
   *Speaker, Volunteer, Board Member, Racine Creative Center, Wisconsin *2018-Present*
   *Special Needs Volunteer, RecPlex Municipal Facility, Wisconsin *2017-2019*
@@ -57,7 +58,7 @@
   *Volunteer, Mentor, Boys and Girls Club, Orange County, San Francisco, Wisconsin *2013-2017*
   *Child Life Volunteer, Childrens Hospital of Orange County, California *2004-2007*
     
-##Resume
+##Career
 
 *Cisco Systems 
   *Cybersecurity Technical Solutions Architect, Public Sector *2020-Present*
