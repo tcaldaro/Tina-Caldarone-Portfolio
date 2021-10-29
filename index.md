@@ -2,7 +2,7 @@
 ## Technical Leader and Security Evangelist
 ### Lifetime Learner; Always a Work-In-Progress
 
-## Certifications:
+## Certifications
 
  * Security -  CCNP Security (2021)
   * Cisco CCIE Written
@@ -16,7 +16,7 @@
  *FY21:
     *https://github.com/tcaldaro/FY21_Accomplishments
 
-## Favorite Books:
+## Favorite Books
 
   * The Count of Monte Cristo by Alexandre Dumas
   * The Goldfinch by Donna Tartt
@@ -31,7 +31,7 @@
   * The Wolf of Wall Street by Jordan Belfort
   * Any and all Biographies/Autobiographies
 
-## Favorite Quotes:
+## Favorite Quotes
 
  “I've failed over and over and over again in my life and that is why I succeed.”
    ― Michael Jordan
@@ -54,7 +54,7 @@
  “...The love you take is equal to the love you make”
      -The Beatles
   
-## Volunteer Work:
+## Volunteer Work
 
   * Troop Leader and Council Treasurer, Girl Scouts of America, Idaho *2021-Present*
   * Speaker, Volunteer, Board Member, Racine Creative Center, Wisconsin *2018-Present*
@@ -75,7 +75,7 @@
   * Inside Sales, 2013-2014
   
 
-## Education:
+## Education
 
  * Bachelors Degree, Communication Studies *Westmont College*
  * Masters Degree, Business *Academy of Art University*
