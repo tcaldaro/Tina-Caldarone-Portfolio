@@ -13,8 +13,8 @@
 
 ## Cybersecurity Technical Solutions Architect | In-Role Achievements:
 
- *FY21:
-    *https://github.com/tcaldaro/FY21_Accomplishments
+  FY21:
+    https://github.com/tcaldaro/FY21_Accomplishments
 
 ## Favorite Books
 
