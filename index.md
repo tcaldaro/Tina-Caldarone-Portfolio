@@ -71,12 +71,9 @@
   * Systems Engineer, Cisco Generalist Account Team,  U.S. Commercial 2018-2020
   * Security Systems Engineer, U.S Channels, 2017-2018
   * Customer Success, Cisco Umbrella 2014-2016
- 
- * Appvance
-  *Account Executive *2014*
+  * Account Executive, Appvance 2014
+  * Inside Sales, 2013-2014
   
- * The RealReal
-  *Inside Sales *2013-2014*
 
 ## Education:
 
