@@ -1,8 +1,9 @@
-#Tina-Caldarone-Portfolio
+# Tina-Caldarone-Portfolio
 ##Technical Leader and Security Evangelist
 ###Lifetime Learner; Always a Work-In-Progress
 
-##Certifications:
+## Certifications:
+
  *Security -  CCNP Security (2021)
   *Cisco CCIE Written
   *Cisco Certified Specialist - Firepower
@@ -10,11 +11,13 @@
  *Devnet Associate (2021)
  *AWS Cloud Practitioner (In-Progress)
 
-##Cybersecurity technical Solutions Architect | In-Role Achievements:
+## Cybersecurity technical Solutions Architect | In-Role Achievements:
+
  *FY21:
     *https://github.com/tcaldaro/FY21_Accomplishments
 
-##Favorite Books
+## Favorite Books
+
   *The Count of Monte Cristo by Alexandre Dumas
   *The Goldfinch by Donna Tartt
   *Sharp Objects by Gillian Fylnn 
@@ -28,7 +31,8 @@
   *The Wolf of Wall Street by Jordan Belfort
   *Any and all Biographies/Autobiographies
 
-##Favorite Quotes:
+## Favorite Quotes:
+
  “I've failed over and over and over again in my life and that is why I succeed.”
    ― Michael Jordan
 
@@ -45,12 +49,13 @@
    -Captain Spock
     
  "You can never be overdressed or overeducated"
-    -Oscare Wilde
+    -Oscar Wilde
     
  “...The love you take is equal to the love you make”
      -The Beatles
   
 ##Volunteer Work
+
   *Troop Volunteer, Girl Scouts of America, Idaho *2021-Present*
   *Speaker, Volunteer, Board Member, Racine Creative Center, Wisconsin *2018-Present*
   *Special Needs Volunteer, RecPlex Municipal Facility, Wisconsin *2017-2019*
@@ -61,6 +66,7 @@
 ##Career
 
 *Cisco Systems 
+
   *Cybersecurity Technical Solutions Architect, Public Sector *2020-Present*
   *Systems Engineer, Cisco Generalist Account Team,  U.S. Commercial *2018-2020*
   *Security Systems Engineer, U.S Channels, *2017-2018*
@@ -73,6 +79,7 @@
   *Inside Sales *2013-2014*
 
 ##Education:
+
  *Bachelors Degree, Communication Studies *Westmont College*
  *Masters Degree, Business *Academy of Art University*
  *Continuing Education/Audit, Public Speaking and Rhetoric *University of Wisconsin*
