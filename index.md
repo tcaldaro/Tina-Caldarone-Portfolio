@@ -56,21 +56,21 @@
   
 ## Volunteer Work:
 
-  *Troop Leader and Council Treasurer, Girl Scouts of America, Idaho *2021-Present*
-  *Speaker, Volunteer, Board Member, Racine Creative Center, Wisconsin *2018-Present*
-  *Special Needs Volunteer, RecPlex Municipal Facility, Wisconsin *2017-2019*
-  *Homeless Assistance Leadership Organization, Wisconsin *2016-2019*
-  *Volunteer, Mentor, Boys and Girls Club, Orange County, San Francisco, Wisconsin *2013-2017*
-  *Child Life Volunteer, Childrens Hospital of Orange County, California *2004-2007*
+  * Troop Leader and Council Treasurer, Girl Scouts of America, Idaho *2021-Present*
+  * Speaker, Volunteer, Board Member, Racine Creative Center, Wisconsin *2018-Present*
+  * Special Needs Volunteer, RecPlex Municipal Facility, Wisconsin *2017-2019*
+  * Homeless Assistance Leadership Organization, Wisconsin *2016-2019*
+  * Volunteer, Mentor, Boys and Girls Club, Orange County, San Francisco, Wisconsin *2013-2017*
+  * Child Life Volunteer, Childrens Hospital of Orange County, California *2004-2007*
     
 ## Career
 
 * Cisco Systems 
 
-  *Cybersecurity Technical Solutions Architect, Public Sector *2020-Present*
-  *Systems Engineer, Cisco Generalist Account Team,  U.S. Commercial *2018-2020*
-  *Security Systems Engineer, U.S Channels, *2017-2018*
-  *Customer Success, Cisco Umbrella *2014-2016*
+  * Cybersecurity Technical Solutions Architect, Public Sector *2020-Present*
+  * Systems Engineer, Cisco Generalist Account Team,  U.S. Commercial *2018-2020*
+  * Security Systems Engineer, U.S Channels, *2017-2018*
+  * Customer Success, Cisco Umbrella *2014-2016*
  
  * Appvance
   *Account Executive *2014*
