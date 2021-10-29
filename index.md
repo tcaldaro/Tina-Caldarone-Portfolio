@@ -18,18 +18,18 @@
 
 ## Favorite Books:
 
-  *The Count of Monte Cristo by Alexandre Dumas
-  *The Goldfinch by Donna Tartt
-  *Sharp Objects by Gillian Fylnn 
-  *Atlas Shrugged by Ayn Rand
-  *Gomorrah by Robert Saviano
-  *Blade Runner by Philip k. Dick
-  *Can't Hurt Me by David Goggins
-  *The Culture Code by Daniel Coyle
-  *Awkward by Ty Tashiro
-  *Outliers by Malcolm Gladwell
-  *The Wolf of Wall Street by Jordan Belfort
-  *Any and all Biographies/Autobiographies
+  * The Count of Monte Cristo by Alexandre Dumas
+  * The Goldfinch by Donna Tartt
+  * Sharp Objects by Gillian Fylnn 
+  * Atlas Shrugged by Ayn Rand
+  * Gomorrah by Robert Saviano
+  * Blade Runner by Philip k. Dick
+  * Can't Hurt Me by David Goggins
+  * The Culture Code by Daniel Coyle
+  * Awkward by Ty Tashiro
+  * Outliers by Malcolm Gladwell
+  * The Wolf of Wall Street by Jordan Belfort
+  * Any and all Biographies/Autobiographies
 
 ## Favorite Quotes:
 
