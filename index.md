@@ -80,9 +80,9 @@
 
 ## Education:
 
- *Bachelors Degree, Communication Studies *Westmont College*
- *Masters Degree, Business *Academy of Art University*
- *Continuing Education/Audit, Public Speaking and Rhetoric *University of Wisconsin*
+ * Bachelors Degree, Communication Studies *Westmont College*
+ * Masters Degree, Business *Academy of Art University*
+ * Continuing Education/Audit, Public Speaking and Rhetoric *University of Wisconsin*
 
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
