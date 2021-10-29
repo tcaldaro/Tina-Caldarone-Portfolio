@@ -67,10 +67,10 @@
 
 * Cisco Systems 
 
-  * Cybersecurity Technical Solutions Architect, Public Sector *2020-Present*
-  * Systems Engineer, Cisco Generalist Account Team,  U.S. Commercial *2018-2020*
-  * Security Systems Engineer, U.S Channels, *2017-2018*
-  * Customer Success, Cisco Umbrella *2014-2016*
+  * Cybersecurity Technical Solutions Architect, Public Sector 2020-Present
+  * Systems Engineer, Cisco Generalist Account Team,  U.S. Commercial 2018-2020
+  * Security Systems Engineer, U.S Channels, 2017-2018
+  * Customer Success, Cisco Umbrella 2014-2016
  
  * Appvance
   *Account Executive *2014*
