@@ -11,10 +11,13 @@
  * Devnet Associate (2021)
  * AWS Cloud Practitioner (In-Progress)
 
-## Cybersecurity Technical Solutions Architect | In-Role Achievements:
+## Cybersecurity Technical Solutions Architect | Industry Exposure
 
-  FY21:
-    https://github.com/tcaldaro/FY21_Accomplishments
+* Infosec Interview:
+    https://www.infosecinstitute.com/clients/how-tina-caldarone-boosted-her-skills-confidence-salary-with-ccna-certification/
+    
+* Nepris Tech Talk
+    https://ccei.nepris.com/app/videos/57353
 
 ## Favorite Books
 
